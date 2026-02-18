@@ -1,0 +1,8 @@
+# data.yaml
+path: dataset         # Root folder of your dataset
+train: C:\Users\ADMIN\Desktop\Train_Model\Yolo_ObjectDetection_Training\dataset\train   # Path to training images
+val: C:\Users\ADMIN\Desktop\Train_Model\Yolo_ObjectDetection_Training\dataset\val   # Path to validation images
+test:C:\Users\Darshan K S\OneDrive\Desktop\Yolo_ObjectDetection_Training\Yolo_ObjectDetection_Training\dataset\test  # Path to test images
+
+names:
+ 0: soccer ball  # Class name for label 0
